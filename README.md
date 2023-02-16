@@ -56,7 +56,7 @@ Code for the main five experiment protocols
 - **plot.py**: Ploting the figures  
 - **run.sh**: Runs the whole program, remember to switch the model according to your OS  
 
-### Dynamic Characteristic
+### Dynamic Characteristic Test
 
 - **classify.py**: Classify the bump type  
       - Classify bump type from output gau.dat files, fill in the output filename in [line 50](https://github.com/CCLoLab/Global-inhibition-in-head-direction-neural-circuits/blob/f59d2d407a4f2d98d087ca46157aecc5a51a3efc/dynamic_characteristic/classify.py#L50)  
