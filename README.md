@@ -1,6 +1,6 @@
 # Global-inhibition-in-head-direction-neural-circuits
-Code data for published paper:  https://doi.org/10.1007/s00359-023-01615-z 
-Using the model from: https://www.frontiersin.org/articles/10.3389/fninf.2018.00099/full
+Code data for published paper:  https://doi.org/10.1007/s00359-023-01615-z  
+Using model from: https://www.frontiersin.org/articles/10.3389/fninf.2018.00099/full
 
 Code for the main five experiment protocols
 1. [Robustness and Motion Persistency Test](https://github.com/CCLoLab/Global-inhibition-in-head-direction-neural-circuits/tree/main/robustness)
