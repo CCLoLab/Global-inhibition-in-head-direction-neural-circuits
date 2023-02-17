@@ -1,6 +1,8 @@
 # Global-inhibition-in-head-direction-neural-circuits
-Code data for published paper:  https://doi.org/10.1007/s00359-023-01615-z  
-Using model from: https://www.frontiersin.org/articles/10.3389/fninf.2018.00099/full
+Code data for published paper:  
+Chang, N., Huang, HP. & Lo, CC. Global inhibition in head-direction neural circuits: a systematic comparison between connectome-based spiking neural circuit models. J Comp Physiol A (2023). https://doi.org/10.1007/s00359-023-01615-z 
+  
+Neuron and synapse model from: https://www.frontiersin.org/articles/10.3389/fninf.2018.00099/full
 
 Code for the main five experiment protocols
 1. [Robustness and Motion Persistency Test](https://github.com/CCLoLab/Global-inhibition-in-head-direction-neural-circuits/tree/main/robustness)
@@ -74,5 +76,7 @@ Code for the main five experiment protocols
 - **plot.py**: Ploting the figures  
 - **run.sh**: Runs the whole program, remember to switch the model according to your OS
 
-
+If you have any question or problem, please contact:  
+lynn-chang@lolab-nthu.org  
+cclo@mx.nthu.edu.tw  
 
